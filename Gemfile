@@ -52,3 +52,5 @@ gem 'better_errors'
 
 gem 'bootstrap', '~> 4.4.1'
 gem 'jquery-rails'
+
+gem 'hmm_view_tool', git: 'https://github.com/hannahm63/hmm_view_tool'
