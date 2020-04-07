@@ -54,3 +54,5 @@ gem 'bootstrap', '~> 4.4.1'
 gem 'jquery-rails'
 
 gem 'hmm_view_tool', git: 'https://github.com/hannahm63/hmm_view_tool'
+
+gem 'petergate', '~> 2.0', '>= 2.0.1'
